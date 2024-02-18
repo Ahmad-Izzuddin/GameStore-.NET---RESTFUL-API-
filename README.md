@@ -1,1 +1,1 @@
-# GameStore-.NET---RESTFUL-API-
+# GameStore
